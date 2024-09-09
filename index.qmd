@@ -1,0 +1,9 @@
+---
+title: Nelli Hovhannisyan
+---
+
+Hello, I’m **Nelli Hovhannisyan**, a data science student with a management and computer science background. With over 6 years of experience, I have worked on a range of projects.
+Feel free to explore my site to learn more about my skills, experience, and education.
+
+- :e-mail: Email: hovhannisyannelli2@gmail.com
+- :globe_with_meridians: LinkedIn: [LinkedIn Link](https://www.linkedin.com/in/nelli-hovhannisyan-5302b4176/)

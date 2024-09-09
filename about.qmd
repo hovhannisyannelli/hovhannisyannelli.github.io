@@ -1,0 +1,71 @@
+---
+title: About Me
+---
+
+# Experience
+## Senior Technical Project Manager
+**Simply Technologies** – Yerevan, Armenia (2020-2024)
+
+- Led cross-functional teams in delivering complex software projects, ensuring adherence to timelines and quality standards
+- Solid understanding of AI/ML models and algorithms, enabling effective communication and collaboration
+with technical teams
+- Utilized data-driven insights to optimize product features and usability
+- Presented product roadmaps to executives
+- Developed and implemented project management methodologies and best practices, resulting in increased
+efficiency and productivity
+- Identified and resolved project risks and issues proactively, minimizing potential impact on deliverables
+- Mentored and coached team members on Agile principles, facilitating continuous improvement and skill development
+- Collaborated closely with Product Management, Engineering, and Customer Success teams to align project objectives and priorities
+- Facilitated effective communication between technical and non-technical stakeholders, ensuring a shared understanding of project goals and requirements
+- Led post-project evaluations and lessons learned sessions, capturing insights for future process enhancements
+- Developed and maintained project documentation, including project plans, requirements, and technical specifications
+
+## Research Assistant
+**American University of Armenia** – Yerevan, Armenia (2023-2024)
+
+- Collaborated with professors to conduct data-driven research on fully automated GPU-Based parallel analysis of pre-clinical multidimensional hyperspectral datasets
+- Cleaned and analyzed data, using statistical techniques to uncover significant patterns
+
+## Teaching Assistant
+**American University of Armenia** – Yerevan, Armenia (2023-2024)
+
+Discrete Mathematics, Linear Algebra, AI and Calculus courses
+- Conduct one-on-one and group tutoring sessions to reinforce concepts and improve student understanding
+- Assisted with student assessments, including grading assignments and providing constructive feedback
+- Monitored student progress and behavior, reporting any concerns or issues to the lead teacher
+
+## Technical Project Manager
+**Tidepool Labs Europe** – Yerevan, Armenia (2018-2020)
+
+- Defined the scope of customer-reported product defects
+- Boosted the team’s productivity by 50 percent through introduction of the Agile process
+- Escalated and defined the process for Quality Assurance and Definition of Done
+- Created and led the implementation of a new feature for application
+- Assured the quality of the product deliverables
+- Translated business requirements into issues and epics
+- Defined PRDs and created mock-up proposal
+- Customized reports development for partners
+
+# Skills
+## Programming & Tools
+
+- **Languages**: Python, R
+- **Libraries**: Pandas, NumPy
+- **Tools**: Jupyter Notebooks, RStudio, Git
+
+# Education
+
+## Master of Data Science (In Progress)
+
+**University of British Columbia** – Vancouver, Canada (Expected 2025 June)
+- Capstone Project: TBD
+
+## Master of Science in Management
+
+**American University of Armenia** – Yerevan, Armenia (2020-2022)
+- Thesis: “Fostering development in local communities with SME Cooperation Association NGO”
+
+## Bachelor of Science in Computer Science
+
+**American University of Armenia** – Yerevan, Armenia (2015-2019)
+- Capstone Project: “Segmentation using Front Propagation and Partitioned Images”
